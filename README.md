@@ -18,6 +18,9 @@ You can use this API in conjunction with my front-end project management app [se
 - SQLite3
 - Rack
 
+## local host 
+`http://localhost:3001`
+
 ## How To Use
 
 Install it and run:
